@@ -32,3 +32,4 @@ class Calculator:
 calc = Calculator()
 print(calc.add(5, 3))
 print(calc.multiply(4, 7))
+
