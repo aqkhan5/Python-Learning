@@ -1,0 +1,12 @@
+{
+    "students": [
+        {
+            "name": "Abdul Qadeer Khan",
+            "age": 25,
+            "email": "aq242@gmail.com",
+            "roll_no": 47,
+            "grades": {}
+        }
+    ],
+    "teachers": []
+}
